@@ -87,7 +87,7 @@
     "reflect-metadata": "^0.1.13",
     "resolve": "1.10.0",
     "sass-loader": "7.1.0",
-    "semver": "6.3.1",
+    "semver": "7.5.2",
     "sqlite3": "^4.1.0",
     "style-loader": "0.23.1",
     "terser-webpack-plugin": "1.4.6",
